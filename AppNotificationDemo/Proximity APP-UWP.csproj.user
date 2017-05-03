@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>false</UseEmulator>
+    <UseSimulator>false</UseSimulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AppxShowAllApps>True</AppxShowAllApps>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxBuildConfigurationSelection>x86|x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <Source>C:\CODE\Source\Repos\HPE-IotHackathon\AppNotificationDemo\Assets\Square150x150Logo.scale-200.png</Source>
+    <SmallTileSource>C:\CODE\Source\Repos\HPE-IotHackathon\AppNotificationDemo\Assets\Square150x150Logo.scale-200.png</SmallTileSource>
+    <MediumTileSource>C:\CODE\Source\Repos\HPE-IotHackathon\AppNotificationDemo\Assets\Square150x150Logo.scale-200.png</MediumTileSource>
+    <WideTileSource>C:\CODE\Source\Repos\HPE-IotHackathon\AppNotificationDemo\Assets\Square150x150Logo.scale-200.png</WideTileSource>
+    <LargeTileSource>C:\CODE\Source\Repos\HPE-IotHackathon\AppNotificationDemo\Assets\Square150x150Logo.scale-200.png</LargeTileSource>
+    <AppIconSource>C:\CODE\Source\Repos\HPE-IotHackathon\AppNotificationDemo\Assets\Square150x150Logo.scale-200.png</AppIconSource>
+    <SplashScreenSource>C:\CODE\Source\Repos\HPE-IotHackathon\AppNotificationDemo\Assets\Square150x150Logo.scale-200.png</SplashScreenSource>
+    <BadgeLogoSource>C:\CODE\Source\Repos\HPE-IotHackathon\AppNotificationDemo\Assets\Square150x150Logo.scale-200.png</BadgeLogoSource>
+    <PackageLogoSource>C:\CODE\Source\Repos\HPE-IotHackathon\AppNotificationDemo\Assets\BadgeLogo.scale-100.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>

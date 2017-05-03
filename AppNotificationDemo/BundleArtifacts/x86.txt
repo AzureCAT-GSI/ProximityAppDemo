@@ -1,0 +1,2 @@
+MainPackage=C:\CODE\Source\Repos\HPE-IotHackathon\AppNotificationDemo\bin\x86\Release\Proximity APP-UWP_1.1.3.0_x86.appx
+SymbolPackage=C:\CODE\Source\Repos\HPE-IotHackathon\AppNotificationDemo\AppPackages\Proximity APP-UWP_1.1.3.0_Test\Proximity APP-UWP_1.1.3.0_x86.appxsym
